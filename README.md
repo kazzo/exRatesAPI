@@ -2,7 +2,6 @@
 Użyłem frameworka laravel 10.7 i PHP 8.2
 
 # Endpoints
-*Wszystkie endpointy mają w nagłówkach Content-Type: application/json i Accept: application/json*
 
 ## Logowanie
 URL: /api/login
